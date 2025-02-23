@@ -1,0 +1,6 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: Weapon Dataset - v4 2024-10-02 7-18am
